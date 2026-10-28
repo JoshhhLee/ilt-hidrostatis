@@ -11,6 +11,8 @@ Hasil setiap siswa terkirim ke Google Sheets dan bisa dilihat guru di halaman da
 
 Tidak perlu instalasi atau *build*: semua file statis (HTML, CSS, JavaScript).
 
+**Website:** https://joshhhlee.github.io/ilt-hidrostatis/ · **Dasbor guru:** https://joshhhlee.github.io/ilt-hidrostatis/guru.html
+
 ---
 
 ## Langkah 1 — Siapkan Google Sheets (sekali saja)
